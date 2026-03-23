@@ -308,7 +308,7 @@ const App = () => {
 
       {/* Rodapé */}
       <footer className="py-12 bg-white text-zinc-400 text-center border-t border-zinc-100 font-bold uppercase tracking-[0.5em] text-[10px]">
-        Wyner Junior • Creative Tech Studio • © 2024
+        Wyner Junior • Creative Tech Studio • © 2026
       </footer>
     </div>
   );
