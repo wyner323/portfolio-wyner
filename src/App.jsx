@@ -300,7 +300,7 @@ const App = () => {
             </div>
 
             <div className="inline-block px-8 py-3 bg-zinc-50 border border-zinc-100 font-mono text-[10px] text-zinc-400 tracking-tighter uppercase font-bold">
-              Uberlândia - MG | (34) 99834-9865 | wynerjunior2468@gmail.com
+              Ibiá - MG | (34) 99834-9865 | wynerjunior2468@gmail.com
             </div>
           </div>
         </div>
